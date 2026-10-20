@@ -83,7 +83,7 @@ These limitations should be considered when interpreting the results.
 
 ## Dashboard Preview
 
-![Q1 2026 Sales Dashboard](images/Q1_2026_Sales_Dashboard.png)
+Ecomerce project.png
 
 ## Project Deliverables
 
