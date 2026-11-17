@@ -84,7 +84,7 @@ These limitations should be considered when interpreting the results.
 ## Dashboard Preview
 
 Ecomerce project.png
-
+![Q1 2026 Sales Dashboard](Ecomerce%20project.png)
 ## Project Deliverables
 
 * Excel workbook containing the sales analysis and interactive dashboard.
